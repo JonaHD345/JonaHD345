@@ -1,4 +1,4 @@
-👋 Hi, I’m @JonaHD345
+HeyHo 👋, I’m @JonaHD345
 
 Make Minecraft Plugins.
 I'm learning programming with Java.  
