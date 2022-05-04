@@ -1,7 +1,7 @@
 HeyHo 👋, I’m @JonaHD345
 
-Make Minecraft Plugins.
-I'm learning programming with Java.  
+make minecraft plugins.
+I'm learning programming with java.  
 <!---
 JonaHD345/JonaHD345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
