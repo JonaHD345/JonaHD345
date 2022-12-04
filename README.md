@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JonaHD345</h1>
 <h3 align="center">a developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonahd345&label=Profile%20views&color=0e75b6&style=flat" alt="jonahd345" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jonahd345&label=Profile%20views&color=0e75b6&style=flat" alt="jonahd345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonahd345" alt="jonahd345" /></a> </p>
 
