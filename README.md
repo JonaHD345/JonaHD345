@@ -5,7 +5,7 @@
 
 </a> </p>
 
-- 🔭 I’m currently working on [motanes | free minecraft servers](https://motanes.de)
+- 🔭 I’m currently working on [motanes | free minecraft servers](https://github.com/motanes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
